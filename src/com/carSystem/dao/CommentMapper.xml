@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.carSystem.dao.CommentMapper">
+
+	<!-- 添加车辆 -->
+	<insert id="insertCommnet" parameterType="com.carSystem.entity.Comment">
+		insert into comment (content,order_car_id) values (#{content},#{order_car_id})
+	</insert>
+	
+</mapper>
