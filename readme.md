@@ -1,5 +1,9 @@
 # 基于SSM的二手车管理系统4
+## 获取方式
 
+扫描下方，回复关键词  ： **二手车4** ，以获取源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 1、项目介绍
 
 基于SSM的二手车管理系统4拥有三种角色
