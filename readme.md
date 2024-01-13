@@ -1,9 +1,5 @@
 # 基于SSM的二手车管理系统4
-## 获取方式
 
-扫描下方，回复关键词  ： **二手车4** ，以获取源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 1、项目介绍
 
 基于SSM的二手车管理系统4拥有三种角色
@@ -35,55 +31,53 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/07/8ZhFHVsandORylC.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311141951710.jpg)
 
 ### 4.2 用户模块
 
-![用户-商城](https://s2.loli.net/2023/10/07/tabvsi4rujQTeIP.jpg)
+![用户-下单页面](https://www.codeshop.fun/Typora-Images/202311141951676.jpg)
 
-![用户-购物车](https://s2.loli.net/2023/10/07/L2euz7qMlQdBUWr.jpg)
+![用户-订单管理](https://www.codeshop.fun/Typora-Images/202311141951765.jpg)
 
-![用户-下单页面](https://s2.loli.net/2023/10/07/fSBeqYPJHIwijEN.jpg)
+![用户-购物车](https://www.codeshop.fun/Typora-Images/202311141951742.jpg)
 
-![用户-订单管理](https://s2.loli.net/2023/10/07/GXyVbO2FRJaZQuw.jpg)
+![用户-商城](https://www.codeshop.fun/Typora-Images/202311141951804.jpg)
+
 
 ### 4.3 商家模块
 
-![商家-车辆管理](https://s2.loli.net/2023/10/07/9kHrW4IFbqBZcE2.jpg)
+![商家-添加车辆](https://www.codeshop.fun/Typora-Images/202311141951796.jpg)
 
-![商家-添加车辆](https://s2.loli.net/2023/10/07/7jzRueZ9hbnoiYw.jpg)
+![商家-下架车辆管理](https://www.codeshop.fun/Typora-Images/202311141950481.jpg)
 
-![商家-下架车辆管理](https://s2.loli.net/2023/10/07/kZjQsNnXGbKRBSC.jpg)
+![商家-销量统计](https://www.codeshop.fun/Typora-Images/202311141950514.jpg)
 
-![商家-订单详情](https://s2.loli.net/2023/10/07/IhmastLCgEeKikM.jpg)
+![商家-车辆管理](https://www.codeshop.fun/Typora-Images/202311141950617.jpg)
 
-![商家-订单详情](https://s2.loli.net/2023/10/07/IhmastLCgEeKikM.jpg)
+![商家-订单管理](https://www.codeshop.fun/Typora-Images/202311141950673.jpg)
 
-![商家-销量统计](https://s2.loli.net/2023/10/07/9F58h34G7UdqCwY.jpg)
+![商家-订单详情](https://www.codeshop.fun/Typora-Images/202311141950577.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-在售车辆管理](https://s2.loli.net/2023/10/07/Z6KWXnjdbASJOyC.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311141951410.jpg)
 
-![管理员-下架车辆管理](https://s2.loli.net/2023/10/07/KBW9rYuReHaowZJ.jpg)
+![管理员-分类管理](https://www.codeshop.fun/Typora-Images/202311141951466.jpg)
 
-![管理员-品牌管理](https://s2.loli.net/2023/10/07/CktNwf9BvOXxysa.jpg)
+![管理员-品牌管理](https://www.codeshop.fun/Typora-Images/202311141951516.jpg)
 
-![管理员-分类管理](https://s2.loli.net/2023/10/07/vERxTuQmcVYs4lf.jpg)
+![管理员-汽车推荐管理](https://www.codeshop.fun/Typora-Images/202311141951621.jpg)
 
-![管理员-汽车推荐管理](https://s2.loli.net/2023/10/07/ih39lCUo8rQdWpV.jpg)
+![管理员-下架车辆管理](https://www.codeshop.fun/Typora-Images/202311141951379.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/07/TBuyQdocGExelKX.jpg)
-
-
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：音乐
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![管理员-在售车辆管理](https://www.codeshop.fun/Typora-Images/202311141951568.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**二手车**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
